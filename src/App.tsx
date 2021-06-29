@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <Navs></Navs>
+    <Navs></Navs>
      <Route exact path ={'/'} component={Homes}/>
      <Route exact path ={'/Home'} component={Homes}/>
      <Route exact path ={'/Wishlist'} component={AllList}/>
