@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mfadel26.github.io/GetPlanets_Typscrpt/static/css/main.3cd33ef3.chunk.css",
-    "main.js": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/main.427bda7b.chunk.js",
-    "main.js.map": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/main.427bda7b.chunk.js.map",
-    "runtime-main.js": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/runtime-main.77152969.js",
-    "runtime-main.js.map": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/runtime-main.77152969.js.map",
-    "static/js/2.15d703a9.chunk.js": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/2.15d703a9.chunk.js",
-    "static/js/2.15d703a9.chunk.js.map": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/2.15d703a9.chunk.js.map",
-    "static/js/3.5470bf28.chunk.js": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/3.5470bf28.chunk.js",
-    "static/js/3.5470bf28.chunk.js.map": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/3.5470bf28.chunk.js.map",
-    "index.html": "/mfadel26.github.io/GetPlanets_Typscrpt/index.html",
-    "static/css/main.3cd33ef3.chunk.css.map": "/mfadel26.github.io/GetPlanets_Typscrpt/static/css/main.3cd33ef3.chunk.css.map",
-    "static/js/2.15d703a9.chunk.js.LICENSE.txt": "/mfadel26.github.io/GetPlanets_Typscrpt/static/js/2.15d703a9.chunk.js.LICENSE.txt"
+    "main.css": "/GetPlanets_Typscrpt/static/css/main.3cd33ef3.chunk.css",
+    "main.js": "/GetPlanets_Typscrpt/static/js/main.427bda7b.chunk.js",
+    "main.js.map": "/GetPlanets_Typscrpt/static/js/main.427bda7b.chunk.js.map",
+    "runtime-main.js": "/GetPlanets_Typscrpt/static/js/runtime-main.cd699fb9.js",
+    "runtime-main.js.map": "/GetPlanets_Typscrpt/static/js/runtime-main.cd699fb9.js.map",
+    "static/js/2.15d703a9.chunk.js": "/GetPlanets_Typscrpt/static/js/2.15d703a9.chunk.js",
+    "static/js/2.15d703a9.chunk.js.map": "/GetPlanets_Typscrpt/static/js/2.15d703a9.chunk.js.map",
+    "static/js/3.5470bf28.chunk.js": "/GetPlanets_Typscrpt/static/js/3.5470bf28.chunk.js",
+    "static/js/3.5470bf28.chunk.js.map": "/GetPlanets_Typscrpt/static/js/3.5470bf28.chunk.js.map",
+    "index.html": "/GetPlanets_Typscrpt/index.html",
+    "static/css/main.3cd33ef3.chunk.css.map": "/GetPlanets_Typscrpt/static/css/main.3cd33ef3.chunk.css.map",
+    "static/js/2.15d703a9.chunk.js.LICENSE.txt": "/GetPlanets_Typscrpt/static/js/2.15d703a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.77152969.js",
+    "static/js/runtime-main.cd699fb9.js",
     "static/js/2.15d703a9.chunk.js",
     "static/css/main.3cd33ef3.chunk.css",
     "static/js/main.427bda7b.chunk.js"
